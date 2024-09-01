@@ -158,10 +158,11 @@
                 text-align: left;
             }
             
-            .portfolio-img h3,
-            .portfolio-img p {
+            .border-picture-portfolio h3,
+            .border-picture-portfolio p {
                 width: 100%;
                 margin: 10px 0;
+                padding-top: 16px;
                 ;
             }
             
@@ -280,4 +281,8 @@
             
             .logo-color-web {
                 color: #4D5AE5;
+            }
+            
+            .border-picture-portfolio {
+                border: 1px solid #E7E9FC;
             }
